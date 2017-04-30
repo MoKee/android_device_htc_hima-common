@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_htc_hima-common",
+    "target_path": "vendor/htc/hima-common"
+  },
+  {
     "repository": "android_kernel_htc_msm8994",
     "target_path": "kernel/htc/msm8994"
   },
